@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.5",
+        "guzzlehttp/guzzle": "^7.4",
+        "doctrine/dbal": "^3.3",
+        "nette/database": "^3.1"
+    }
+}
