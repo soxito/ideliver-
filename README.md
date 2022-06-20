@@ -1,4 +1,4 @@
-# ideliver
+# ideliver API Based
 
 Create new table using phpmyadmin
 
@@ -17,3 +17,11 @@ run the token APIs
 
 To run Quotes test run
 navigate to public folder and run the test.php file, and the Downing test files.
+
+# ideliver Laravel Based
+
+
+run the database migration.
+create token http://127.0.0.1:8000/dawning/token
+
+run the application http://127.0.0.1:8000/quotes/create
