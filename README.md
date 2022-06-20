@@ -22,6 +22,7 @@ navigate to public folder and run the test.php file, and the Downing test files.
 
 
 run the database migration.
+
 create token http://127.0.0.1:8000/dawning/token
 
 run the application http://127.0.0.1:8000/quotes/create
